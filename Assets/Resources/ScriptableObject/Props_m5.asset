@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22bdd3a86da44659b26502104d2e7873, type: 3}
+  m_Name: Props_m5
+  m_EditorClassIdentifier: 
+  ID: 709914
+  Name: MVillage_WheelHandle_LOD0
+  Prefab: {fileID: 5270928977682791759, guid: 18974d546a4700643b78898485861a78, type: 3}
+  Icon: {fileID: 21300000, guid: 3cc9b8f877b5df24c92cd9df394eb5e1, type: 3}
+  Weight: 1.4
+  Type: 2
